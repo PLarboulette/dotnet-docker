@@ -1,2 +1,6 @@
 bin
 obj
+aspnetapp/bin
+aspnetapp/obj 
+./aspnetapp/wwwroot/lib/*
+aspnetapp/wwwroot/lib/*
